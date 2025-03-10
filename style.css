@@ -1,0 +1,143 @@
+
+body{
+   text-align: center;
+   background-color: antiquewhite;
+   overflow: hidden;
+   
+}
+
+
+h1{
+    background-color: rgb(15, 39, 83);
+    color: aliceblue;
+    border-radius: 20%;
+    height: 5rem;
+    width: 20rem;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+
+    align-items: center;
+    justify-content: center;
+margin: auto;
+
+}
+
+h2{
+    background-color: rgb(164, 181, 212);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    border-radius: 20%;
+    height: 4rem;
+    width: 34rem;
+    display: flex;
+   
+
+    align-items: center;
+    justify-content: center;
+margin: auto;
+margin-top: 1rem;
+}
+/*  */
+
+
+.user-score{
+    background-color: rgb(15, 156, 195);
+    color: aliceblue;
+    border-radius: 20%;
+    height: 4rem;
+    width: 15rem;
+    display: flex;
+   
+
+    align-items: center;
+    justify-content: center;
+margin: auto;
+margin-top: 14rem;
+margin-left: 3rem;
+position: absolute;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.high-score{
+    background-color: rgb(182, 19, 109);
+   color: aliceblue;
+    border-radius: 20%;
+    height: 4rem;
+    width: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+margin: auto;
+margin-top: 14rem;
+margin-left: 79%;
+position: absolute;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.btn-container{
+    height: 20rem;
+    width: 30rem;
+    border: 1px solid black;
+    display: flex;
+   
+
+    align-items: center;
+    justify-content: center;
+
+    
+    margin: auto;
+    margin-top: 1rem;
+    padding: 5rem 5rem 5rem 5rem;
+    box-shadow: 15px  14px 15px 15px rgb(91, 86, 86);
+  
+}
+
+.btn1{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border: 5px solid black;
+    margin: 1rem ;
+
+border-radius: 20%;
+}
+
+.btn2{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border: 5px solid black;
+    margin: 1rem ;
+
+border-radius: 20%;
+}
+.btn3{
+    height: 200px;
+    width: 200px;
+ 
+    background-color: red;
+    border: 5px solid black;
+    margin: 1rem ;
+border-radius: 20%;
+}
+.btn4{
+    height: 200px;
+    width: 200px;
+    background-color: cyan;
+    border: 5px solid black;
+    margin: 1rem ;
+
+border-radius: 20%;
+}
+
+.flash{
+    background-color: aliceblue;
+}
+.userflash{
+    background-color: rgb(224, 224, 42);
+}
+
+
+
