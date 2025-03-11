@@ -6,9 +6,8 @@ This is a **JavaScript-based Simon Says Game**, where the user has to follow the
 
 ## 🚀 Features
 - 🎨 **Flashing Buttons** to indicate sequences.
-- 🔊 **Sound Effects** for user feedback.
 - 🔥 **High Score Tracking**.
-- 🎯 **Game Over Message** in the center of the screen.
+- 🎯 **User Score Tracking**.
 
 ## 📜 How to Play?
 1️⃣ **Press Any Key to Start the Game**  
